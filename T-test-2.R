@@ -1,4 +1,4 @@
-#Author: David; Author name: David Mojekwu; Date 10/23/2025; Purpose: Peform T test function
+#Author: Mojekwu; Author name: David Mojekwu; Date 10/23/2025; Purpose: Peform T test function
 
 #Create 2 dummy variables
 
